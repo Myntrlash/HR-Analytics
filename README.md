@@ -4,9 +4,10 @@
 This Power BI dashboard provides insights into **employee attrition trends** based on various factors such as age, education, job role, salary slab, and years at the company. The dashboard helps HR professionals analyze workforce retention and make data-driven decisions to improve employee engagement and reduce attrition.  
 
 ## **Dashboard Preview**  
-📌 **[Insert Image or Link to Dashboard]**  
+<img width="1052" alt="image" src="https://github.com/user-attachments/assets/d7f4cf5a-ad3a-4883-8ee6-5a084f048c8d" />
 
-![HR Analytics Dashboard](image.png)  
+
+
 
 ---
 
